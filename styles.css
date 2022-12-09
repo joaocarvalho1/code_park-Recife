@@ -9,7 +9,7 @@ header{background-color: #dbe0f9;
 ul{ display: flex;
   list-style-type: none;}
 
-li{padding-left: 15px;/*separa os textos da lista*/
+li{padding-left: 15px;/*separa os textos da lisTa*/
 }
 
 body{background-color: #f3f5ff;
